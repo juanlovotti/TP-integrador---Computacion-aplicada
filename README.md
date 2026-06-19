@@ -2,8 +2,8 @@
 integrantes: 
 
 - Francesco Tomás Colombo
-- Marcos
-- Juan Lovotti
+- Marcos Ariel Masciocchi
+- Juan Valentin Lovotti
 - Santino Tomas Nuñez
 - Adolfo Lorenzo Niz
   
